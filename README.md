@@ -6,12 +6,12 @@ Consistent hash package for Go.
 Installation
 ------------
 
-    go get stathat.com/c/consistent
+    go get github.com/micro/consistent
 
 Examples
 --------
 
-Look at the [godoc](http://godoc.org/stathat.com/c/consistent).
+Look at the [godoc](http://godoc.org/github.com/micro/consistent).
 
 Status
 ------
